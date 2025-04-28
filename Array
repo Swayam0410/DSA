@@ -1,2 +1,4 @@
 Arrays
 If you want to change sort an array without changing that array,store it in a set.
+
+If there is a talk about Substring(continious)-do give a think for SLIDING WINDOWS(a start index(initially 0) and then traverse for an end index and  if some condition fails,move forward the start)
