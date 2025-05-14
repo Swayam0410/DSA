@@ -12,3 +12,7 @@ AGAR SAMJ NAI AARA KONSA QUESTIONS KII BAAT KAR RAHA HUN-SEARCH FOR PUSH DOMINOE
 
 
 WHENEVER THERE IS A QUESTION OF TILING(FITTING OF TILES IN AN MATRIX),TRY TO DERIVE AN FORMULA
+
+MATRIX EXPONENTIATION-Matrix exponentiation is a math trick to compute repeating patterns (like Fibonacci) super fast — by turning the pattern into a matrix and raising it to a power using smart multiplication.
+SMART MULTIPLICATION-(n%2==0)x=x*x,n/2 else ans=x*func(x,n-1);
+
