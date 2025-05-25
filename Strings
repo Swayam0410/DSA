@@ -1,0 +1,4 @@
+if you want to convert your string to number(int,long long)
+one of the way is to take the substring and pass from STOI,but STOI(str) have time complexity of O(N)
+otherwise you can traverse through the string and do temp=temp*10+str[i]-'0';the Final temp will be your answer
+From the temp process you could get a string also.
