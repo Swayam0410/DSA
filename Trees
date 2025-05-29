@@ -47,3 +47,8 @@ CODE:-
         int lca = findLCA(u, v, maxN, levels, LCA);
         return levels[u] + levels[v] - 2 * levels[lca];
     }
+
+
+
+
+IF AKSED FOR THE DISTANCE BETWEEN 2 NODES OF A TREE TO BE EVEN-THINK OF BIPARTITE TREE(TREE WITH ADJACENT COLORS DIFFERENT)
