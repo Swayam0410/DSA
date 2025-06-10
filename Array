@@ -32,5 +32,6 @@ GCD HAVE A STL(__gcd(x,y))
 GCD OF 0,x is always x
 for gcd of an set of numbers{
 int g=0;
+traverse(i->1-n)
 g=__gcd(g,i)
 }
